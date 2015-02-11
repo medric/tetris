@@ -1,0 +1,8 @@
+# Ignore les .class
+src/*.class
+
+# Ignore le .project
+.project
+
+# Ignore le .project
+.classpath
